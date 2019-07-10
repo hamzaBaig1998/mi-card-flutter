@@ -1,0 +1,4 @@
+#Sun Jul 07 04:43:32 PKT 2019
+base.0=C\:\\Users\\Hamza Baig\\mi_card_flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
